@@ -23,7 +23,7 @@
     "lodash": "^4.17.11",
     "oathforge": "^2.0.7",
     "promise-waterfall": "^0.1.0",
-    "ultralightbeam": "^5.1.10"
+    "ultralightbeam": "^5.1.12"
   },
   "devDependencies": {
     "amorph-ascii": "^1.0.0",
